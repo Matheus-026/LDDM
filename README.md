@@ -16,8 +16,6 @@ Os projetos e atividades foram construídos utilizando o ecossistema **Flutter**
 ## 📂 Estrutura do Repositório
 
 ```text
-.
-└── Atividade LAB - LDDM/
-    ├── Pratica 1/       # Exercícios e conceitos iniciais em Flutter/Dart
-    ├── Pratica 2/       # Aplicação de widgets e gerenciamento de estado
-    └── Check 1/         # Atividade avaliativa / Checkpoint 1
+├── Pratica 1/       # Exercícios e conceitos iniciais em Flutter/Dart
+├── Pratica 2/       # Aplicação de widgets e gerenciamento de estado
+└── Check 1/         # Atividade avaliativa / Checkpoint 1
