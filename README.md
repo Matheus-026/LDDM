@@ -18,4 +18,4 @@ Os projetos e atividades foram construídos utilizando o ecossistema **Flutter**
 ```text
 ├── Pratica 1/       # Exercícios e conceitos iniciais em Flutter/Dart
 ├── Pratica 2/       # Aplicação de widgets e gerenciamento de estado
-└── Check 1/         # Atividade avaliativa / Checkpoint 1
+└── Check 1/         # Atividade avaliativa 
